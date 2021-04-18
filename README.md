@@ -7,3 +7,5 @@ second we configured our useremail... git config --global user.email "User email
 create a new directory to host the project .. mkdir myproject
 initialize git in or for that directory .. git init
 
+
+NEW LINE ADDED FOR TESTING
